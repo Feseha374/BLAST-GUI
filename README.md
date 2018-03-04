@@ -38,6 +38,9 @@ A user friendly GUI to NCBI BLAST suite: Developed for BLAST version 2.6.0
 
       On Windows:  C:\localBlast    and  C:\blastDB
       
+ ![Screen Shot #1: The whole GUI]]
+ (https://github.com/Feseha374/BLAST-GUI/blob/master/BLAST_GUI_ScreenShots/BLAST_GUI_SC1.png)
+      
       On MacOS X:  $HOME/localBlast and  $HOME/blastDB   ( $HOME = user's home directory )
 
 
