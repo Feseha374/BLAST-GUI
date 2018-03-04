@@ -21,7 +21,9 @@ A user friendly GUI to NCBI BLAST suite: Developed for BLAST version 2.6.0
    		ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/
 
    Choose the BLAST+ package suitable for your OS
+   
 	Mac OS  users: choose the dmg file at the end of the list
+	
         Windows users: choose the win32.exe or win64.exe file
 
    Install BLAST+ to the default location by acceptibg default settings 
