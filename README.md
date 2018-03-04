@@ -24,7 +24,8 @@ A user friendly GUI to NCBI BLAST suite: Developed for BLAST version 2.6.0
    
 	Mac OS  users: choose the dmg file at the end of the list
 	
-        Windows users: choose the win32.exe or win64.exe file
+	Windows users: choose the win32.exe (older 32 bit machines) or win64.exe (newer PCs)
+	
 
    Install BLAST+ to the default location by acceptibg default settings 
    which will place the BLAST executables in the default directories:
