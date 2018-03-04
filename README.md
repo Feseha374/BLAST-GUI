@@ -37,10 +37,22 @@ A user friendly GUI to NCBI BLAST suite: Developed for BLAST version 2.6.0
    Deleting or Renaming the following folders may crash	the program so you keep them intact!
 
       On Windows:  C:\localBlast    and  C:\blastDB
-      
- ![Screen Shot #1: The whole GUI]]
- (https://github.com/Feseha374/BLAST-GUI/blob/master/BLAST_GUI_ScreenShots/BLAST_GUI_SC1.png)
-      
+           
       On MacOS X:  $HOME/localBlast and  $HOME/blastDB   ( $HOME = user's home directory )
-
+#      
+#Overview of almost all features 
+#
+![Screen Shot #1: The whole GUI](https://github.com/Feseha374/BLAST-GUI/blob/master/BLAST_GUI_ScreenShots/BLAST_GUI_SC1.png)
+#
+#Genetic code selection in tblasatx
+#
+![Screen Shot #2: Genecic Code selection](https://github.com/Feseha374/BLAST-GUI/blob/master/BLAST_GUI_ScreenShots/BLAST_GUI_SC2.png)
+#
+#Creating Local Databases is easy
+#
+![Screen Shot #3: Creating Local Database](https://github.com/Feseha374/BLAST-GUI/blob/master/BLAST_GUI_ScreenShots/BLAST_GUI_SC3.png)
+#
+#Creating Virtual Databases gives ultimate flexibility without using extra hard disck space.
+#
+![Screen Shot #4: Virtual database Example](https://github.com/Feseha374/BLAST-GUI/blob/master/BLAST_GUI_ScreenShots/BLAST_GUI_SC4.png)
 
