@@ -26,8 +26,11 @@ A user friendly GUI to NCBI BLAST suite: Developed for BLAST version 2.6.0
 
    Install BLAST+ to the default location by acceptibg default settings 
    which will place the BLAST executables in the default directories:
+   
       MacOS X: /usr/local/ncbi/blast/bin
+      
       Windows: C:\program files\ncbi\blast\bin or something similar to it ...
+      
 
 3. FOLDER CAUTION ...
    On Windows PC the program assumes that C:\ is the root directory or it would not work.
