@@ -29,7 +29,7 @@ A user friendly GUI to NCBI BLAST suite: Developed for BLAST version 2.6.0
    
       MacOS X: /usr/local/ncbi/blast/bin
       
-      Windows: C:\program files\ncbi\blast\bin or something similar to it ...
+      Windows: C:\program files\ncbi\blast\bin       or something similar to it ...
       
 
 3. FOLDER CAUTION ...
@@ -37,6 +37,7 @@ A user friendly GUI to NCBI BLAST suite: Developed for BLAST version 2.6.0
    Deleting or Renaming the following folders may crash	the program so you keep them intact!
 
       On Windows:  C:\localBlast    and  C:\blastDB
+      
       On MacOS X:  $HOME/localBlast and  $HOME/blastDB   ( $HOME = user's home directory )
 
 
